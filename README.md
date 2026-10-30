@@ -223,4 +223,4 @@ Greenstone is offered as a full free version, which includes all features and up
 Unlock the full potential of your library with Greenstone. Download it today!
 
 ---
-**Last updated:** 2026-10-30 08:03:34 UTC
+**Last updated:** 2026-10-30 15:32:07 UTC
